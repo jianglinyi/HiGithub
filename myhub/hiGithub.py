@@ -1,2 +1,2 @@
 if __name__ == '__main__':
-    print('hi github.')
+    print('hi my hub.')
